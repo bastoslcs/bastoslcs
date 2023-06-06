@@ -1,4 +1,4 @@
-<img src='panda.gif' width='320x' align='right'/>
+<img src='panda.gif' width='300x' align='right'/>
 <h1>Olá, Bem vindo ao meu GitHub! 👩‍💻</h1>
   
 <ul>
@@ -17,7 +17,7 @@
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastoslcs&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=bastoslcs&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastoslcs&show_icons=true&theme=bear&count_private=true"/>
+<img height = "10" src="https://github-readme-stats.vercel.app/api?username=bastoslcs&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
