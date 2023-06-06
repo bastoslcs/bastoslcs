@@ -1,9 +1,9 @@
-<img src='panda.gif' width='300x' align='right'/>
+<img src='panda.gif' width='280px' align='right'/>
 <h1>Olá, Bem vindo ao meu GitHub! 👩‍💻</h1>
-  
+ <p> Futuro Engenheiro de Software e Desenvolver Front End</p>
 <ul>
   <li>Estudante de Engenharia de Software</li>
-  <li>Desenvolvedor Front End</li>
+  <li>Apredendo algo sobre Front End</li>
 </ul>
 
 ---
@@ -17,7 +17,7 @@
 ---
 
 <div align = "left">
-<img height = "100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastoslcs&show_icons=true&theme=bear&count_private=true"/>
-<img height = "10" src="https://github-readme-stats.vercel.app/api?username=bastoslcs&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastoslcs&show_icons=true&theme=bear&count_private=true"/>
+<img height = "150" src="https://github-readme-stats.vercel.app/api?username=bastoslcs&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
