@@ -25,7 +25,7 @@
 ---
 
 <div align = "left">
-<img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastoslcs&show_icons=true&theme=bear&count_private=true"/>
-<img height = "150" src="https://github-readme-stats.vercel.app/api?username=bastoslcs&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastoslcs&show_icons=true&theme=bear&count_private=true"/>
+<img height = "120" src="https://github-readme-stats.vercel.app/api?username=bastoslcs&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
