@@ -1,7 +1,6 @@
 <img src='panda.gif' width='280px' align='right'/>
-<h1>Olá, Bem vindo ao meu GitHub! 👩‍💻</h1>
- <p> Futuro Engenheiro de Software e Desenvolver Front End</p>
- 
+<h1>Olá, Bem vind@! 👩‍💻</h1>
+  
   <div id="badges">
   <a href = "https://github.com/bastoslcs">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,12 +9,12 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
+<p> Futuro Engenheiro de Software e Desenvolver Front End</p>
+
 <ul>
   <li>Estudante de Engenharia de Software</li>
   <li>Aprendendo algo sobre Front End</li>
 </ul>
-
----
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
