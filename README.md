@@ -1,9 +1,18 @@
 <img src='panda.gif' width='280px' align='right'/>
 <h1>Olá, Bem vindo ao meu GitHub! 👩‍💻</h1>
  <p> Futuro Engenheiro de Software e Desenvolver Front End</p>
+ 
+  <div id="badges">
+  <a href = "https://github.com/bastoslcs">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 <ul>
   <li>Estudante de Engenharia de Software</li>
-  <li>Apredendo algo sobre Front End</li>
+  <li>Aprendendo algo sobre Front End</li>
 </ul>
 
 ---
