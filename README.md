@@ -2,9 +2,7 @@
 <h1>Olá, Bem vind@! 👩‍💻</h1>
   
   <div id="badges">
-  <a href = "www.linkedin.com/in/bastoslcs">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </div>
 
 <p> Futuro Engenheiro de Software e Desenvolver Front End</p>
