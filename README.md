@@ -1,9 +1,11 @@
 <img src='panda.gif' width='280px' align='right'/>
 <h1>Olá, Bem vind@! 👩‍💻</h1>
-  
-  <div id="badges">
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</div>
+ 
+ <div id="badges">
+  <a href = "https://br.linkedin.com/in/lucas-bastos-b6794a138?trk=profile-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+</div>          
 
 <p> Futuro Engenheiro de Software e Desenvolver Front End</p>
 
